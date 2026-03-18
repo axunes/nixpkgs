@@ -2775,6 +2775,13 @@
     github = "axodentally";
     githubId = 24368475;
   };
+  axunes = {
+    name = "axunes";
+    email = "axunes@axunes.net";
+    matrix = "@axunes:matrix.org";
+    github = "axunes";
+    githubId = 55267708;
+  };
   ayazhafiz = {
     email = "ayaz.hafiz.1@gmail.com";
     github = "hafiz";
